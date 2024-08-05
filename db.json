@@ -1,10 +1,13 @@
 {
-
+"posts":[
+    {
     "id": "1", 
     "name": "Nike", 
     "description": "new brand shoes", 
     "imageUrl": "imagepath", 
     "price": 300.0
+}
+]
 }
 
 
